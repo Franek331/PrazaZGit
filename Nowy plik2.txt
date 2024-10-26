@@ -1,1 +1,3 @@
-classa samochód
+classa samochód(){
+public int id;
+}
